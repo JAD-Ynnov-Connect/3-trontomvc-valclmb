@@ -1,7 +1,5 @@
 package com.jad;
 
-import com.jad.tron.*;
-
 public enum TronMain {
     ;
 
